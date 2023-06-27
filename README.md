@@ -1,1 +1,1 @@
-Deploy here: https://yasnoprosto.github.io/hws2/#/pre-junior
+Deployed here: https://yasnoprosto.github.io/hws2/#/pre-junior
